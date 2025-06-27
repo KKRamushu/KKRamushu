@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there i'm Kholofelo👋
 
-<!--
-**KKRamushu/KKRamushu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Self-taught developer & CS50 student  
+🛠️ Passionate about web development, especially Django & JavaScript  
+🌱 Currently working on my CS50 final project
+📫 How to reach me: [Email](kg.ramushu@gmail.com) 
 
-Here are some ideas to get you started:
+🛠️ Tech Stack 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Python
+-Django
+-Javascript
+-HTML
+-CSS
