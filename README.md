@@ -1,4 +1,4 @@
-## Hi there i'm Kholofelo👋
+## Hi there i'm Kholofelo (aka "KK")👋
 
 🎓 Self-taught developer & CS50 student  
 🛠️ Passionate about web development, especially Django & JavaScript  
